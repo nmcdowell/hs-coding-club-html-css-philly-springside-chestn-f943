@@ -143,6 +143,7 @@ header .intro-text .skills {
         -webkit-transition: all .3s;
         -moz-transition: all .3s;
         transition: all .3s;
+      background-color: orange;
     }
 
     .navbar-fixed-top.navbar-shrink {
@@ -158,6 +159,7 @@ header .intro-text .skills {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
+  background-color: red;
 }
 
 .navbar a:focus {
